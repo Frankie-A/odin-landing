@@ -1,0 +1,15 @@
+.Header{
+    color: white;
+    text-align: left;
+    padding-left: 80px;
+}
+
+.H2{
+    text-align: right;
+    margin-top: -40px;
+    word-spacing: 10px;
+}
+
+*{
+    background-color: navy;
+}
